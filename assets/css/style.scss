@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 .container {
-  background: #900;
+  background: #090;
+  max-width: 800px !important;
 }
