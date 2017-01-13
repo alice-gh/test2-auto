@@ -1,13 +1,10 @@
----
-title: my title
-layout: default
----
+<title>My Title</title>
 
 # <img src="https://github.com/sayak-brm/struixLang/blob/master/docs/logo/struixLANG.PNG?raw=true" alt="struixLang" height="60"/>
 
 ##### A stack-based programming language implemented in Python3.
 
-BYE
+HEYO
 
 ###### Copyright 2016 [Sayak Brahmachari](https://sayak-brm.github.io/) @ [MicroControlled](http://mctrl.ml/). Licenced under [Apache v2.0](https://opensource.org/licenses/Apache-2.0). 
 
