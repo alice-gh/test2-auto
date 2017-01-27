@@ -1,10 +1,9 @@
 ---
-layout: page
 title: My title
 permalink: /
 ---
 
-# Beep
+# Bop
 
 ##### A stack-based programming language implemented in Python3.
 
