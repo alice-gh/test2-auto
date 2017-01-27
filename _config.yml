@@ -1,4 +1,2 @@
-description: <p style="color:purple;font-family:helvetica"> # this means to ignore newlines until "baseurl:"
-  "Current testing page for future social media networking website"
   
 theme: jekyll-theme-cayman
