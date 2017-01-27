@@ -4,7 +4,7 @@ title: My title
 permalink: /
 ---
 
-# <img src="https://github.com/sayak-brm/struixLang/blob/master/docs/logo/struixLANG.PNG?raw=true" alt="struixLang" height="60"/>
+# Beep
 
 ##### A stack-based programming language implemented in Python3.
 
